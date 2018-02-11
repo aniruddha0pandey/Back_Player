@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-body {
+body{
     background-color: powderblue;
 }
 
@@ -10,7 +10,23 @@ body {
 	text-align:center
 }
 
-.images span{
-	width:30%;
-	margin:0 1%;
+#Music-1{
+  z-index: 100;
+  position: relative;
+  left: 0px;
+  top: -135px;
+}
+
+#Music-2{
+  z-index: 100;
+  position: relative;
+  left: 5px;
+  top: 285px;
+}
+
+#Music-3{
+  z-index: 100;
+  position: relative;
+  left: 5px;
+  top: 490px;
 }
