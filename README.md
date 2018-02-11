@@ -1,6 +1,6 @@
 # <div align="center">Back Player</div>
 <div align="center">
-  <img src="https://github.com/aniruddha0pandey/Background_Musicplayer/blob/master/logo.jpg"><br><br>
+  <img src="https://github.com/aniruddha0pandey/Background_Musicplayer/blob/master/logo.jpg">
 </div>
 <hr>
 <br/>This is a Background Musicplayer which is yet one more noob attempt of mine which work on the command of keys.<br/>
