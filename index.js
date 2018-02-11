@@ -1,16 +1,16 @@
 function playmusic_1(){
        var audio_1 = document.getElementById("audio_1");
-       audio.play();
+       audio_1.play();
 }
 
 function playmusic_2(){
        var audio_2 = document.getElementById("audio_2");
-       audio.play();
+       audio_2.play();
 }
 
 function playmusic_3(){
        var audio_3 = document.getElementById("audio_3");
-       audio.play();
+       audio_3.play();
 }
 
 document.addEventListener('keydown', function(event) {
