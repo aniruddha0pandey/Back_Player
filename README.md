@@ -20,7 +20,7 @@ $ git clone https://github.com/git/git
 <br/>Or you can download git for you computer via:
 
 ```bash
->$ sudo apt-get update
->$ sudo apt-get upgrade
->$ sudo apt-get install git
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
 ```
