@@ -4,8 +4,13 @@ body {
     background-color: powderblue;
 }
 
-h2 { 
-   position: absolute; 
-   top: 50px; 
-   left: 40px;
+.images{
+	width:30%;
+	margin:0 auto;
+	text-align:center
+}
+
+.images span{
+	width:30%;
+	margin:0 1%;
 }
