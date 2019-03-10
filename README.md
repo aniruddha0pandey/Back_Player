@@ -20,4 +20,6 @@ $ git clone https://github.com/git/git
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
+$ # Downloads
+$ curl -o song_name.mp3 https://raw.githubusercontent.com/aniruddha0pandey/Back_Player/master/song_name.mp3
 ```
